@@ -5,6 +5,6 @@ export default {
   useTabs: false,
   trailingComma: "all",
   printWidth: 80,
-  backetSpacing: true,
+  bracketSpacing: true,
   arrowParens: "always",
 };
