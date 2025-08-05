@@ -46,7 +46,7 @@ Open http://localhost:8080 to view your app.
 | `npm run build` | Creates production bundle in `dist/`        |
 | `npm run test`  | Runs Jest in watch mode for all tests       |
 | `npm run lint`  | Lints source files using ESLint             |
-| `npm run prettier` | Formats code in `src/` using Prettier  |
+| `npm run prettier` | Checks code format in `src/` using Prettier  |
 
 ---
 
