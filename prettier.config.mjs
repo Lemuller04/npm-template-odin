@@ -1,10 +1,10 @@
 export default {
   semi: true,
-  singleQuote: false,
+  singleQuote: true,
   tabWidth: 2,
   useTabs: false,
   trailingComma: "all",
-  printWidth: 80,
+  printWidth: 100,
   bracketSpacing: true,
   arrowParens: "always",
 };
